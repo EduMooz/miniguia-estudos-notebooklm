@@ -63,7 +63,10 @@ Entretanto, seu uso exige pensamento crítico. A IA pode cometer erros, generali
 | NotebookLM | Ferramenta de IA do Google voltada para estudo e análise de fontes. |
 | Aprendizagem Ativa | Estratégia em que o estudante participa de forma crítica e prática do próprio aprendizado. |
 
-### 5.3 Prompts Reutilizáveis
+## 6. Conclusão
 
-```txt
-Explique este conteúdo como se eu fosse iniciante.
+Este projeto demonstrou como a Inteligência Artificial pode ser usada como ferramenta de aprendizagem ativa, desde que combinada com curadoria de fontes, pensamento crítico e bons prompts.
+
+O uso do NotebookLM ajudou a transformar materiais dispersos em um caderno temático organizado, com resumos, glossário e perguntas de revisão. Além disso, o registro das dificuldades encontradas durante os testes de prompts permitiu entender melhor como formular perguntas mais claras e obter respostas mais úteis.
+
+Segue link do notbooklm utilizado para a realização: https://notebooklm.google.com/notebook/340d421f-370e-437d-8bb2-25b57616e8cf
