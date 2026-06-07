@@ -16,13 +16,12 @@ O tema escolhido foi **Inteligência Artificial Generativa aplicada aos estudos*
 
 ## 2. Curadoria de Fontes
 
-| Fonte | Tipo | Link | Motivo da escolha |
-|------|------|------|-------------------|
-| Google NotebookLM | Ferramenta oficial | https://notebooklm.google/ | Entender a proposta da ferramenta utilizada |
-| Guia inicial do NotebookLM | Artigo oficial | https://blog.google/innovation-and-ai/products/notebooklm-beginner-tips/ | Conhecer boas práticas de uso |
-| Documentação sobre README no GitHub | Documentação oficial | https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes | Estruturar melhor o repositório |
-| Fonte complementar 1 | Artigo/PDF | inserir link | Apoiar conceitos do tema |
-| Fonte complementar 2 | Artigo/PDF | inserir link | Aprofundar o estudo |
+| Fonte | Link |
+|------|------|
+| Introdução à IA gerativa e aos agentes (microsoft) | https://learn.microsoft.com/pt-br/training/modules/fundamentals-generative-ai/ |
+| Introdução a Inteligência Artificial Generativa (udemy) | https://www.udemy.com/course/introducao-a-inteligencia-artificial-generativa/?srsltid=AfmBOoq3P7E26dtk1i5f8EvrEoKlhstL8um-OR_4H48hHk6cIRZrpFsk |
+| Introdução à inteligência artificial: IA Generativa VS Tradicional - Episódio 2 | https://www.youtube.com/watch?v=wGWQ2KD61Q4 |
+| Introdução à Inteligência Artificial Generativa: Desvendando os Segredos do GPT | https://www.youtube.com/watch?v=btT0z3d8_BE |
 
 ## 3. Metodologia no NotebookLM
 
